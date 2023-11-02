@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miguel Ángel García
-- 💞️ I am an EFL and Computer Science Teacher.
+- ✨ I am an EFL and Computer Science Teacher.
 - 👀 I’m interested in GIS (Geographic Information Systems) programming such as Python, SQL, JavaScript, HTML, CSS, PHP.. and mapping tools such as QGIS.
 - 🌱 I’m currently learning about programming and mapping languages.
 - 👋 I'm currently working as a QGIS analyst for educational planning purposes at Catalonian Education Department.
