@@ -5,7 +5,7 @@
 - 👋 I'm currently working as a QGIS analyst for educational planning purposes at Catalonian Education Department.
 - 💞️ I’m looking to collaborate on QGIS, PyQGIS, PostgreSQL or PostGIS projects.
 - 📫 How to reach me ...
-- <!-- Size: 140 px -- >
+- 
 <a href="/cliparts/7/7/2/9/13318141701826839708twitter button-th.png"><img src="/cliparts/7/7/2/9/13318141701826839708twitter button-th.png" alt='Twitter Button image'/></a>
 - 
 
