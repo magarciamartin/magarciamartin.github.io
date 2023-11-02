@@ -18,7 +18,7 @@ p{
   @font-face{
     font-family: "Lovely Home";
     src:local('Lovely Home'), 
-    url("image/LovelyHome-9aBZ.ttf") format('truetype');
+    url("Image/LovelyHome-9aBZ.ttf") format('truetype');
 
   }
 
@@ -103,13 +103,13 @@ span.wave {
   }
 }
 
-.image-boy{
+.Image-boy{
   text-align: center;
   align-items: center;
 }
 
 @media only screen and (min-width:951px){
-  .image-boy{
+  .Image-boy{
     display:none;
   }
 }
